@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Franfee
+- 👋 Hi, I’m @Franfee , a student in SICNU
 - 👀 I’m interested in algorithm and Server development
 - 🌱 I’m currently learning nlp and cv
-- 💞️ I’m looking to collaborate on Learning Deep Learning
-- 📫 How to reach me QQ:599450863
+- 📫 How to contact me ? By sending an email to "franfee@qq.com"
 
 <!---
 Franfee/Franfee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
