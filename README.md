@@ -1,3 +1,4 @@
+## About
 - 👋 Hi, I’m @Franfee , a student in SICNU
 - 👀 I’m interested in algorithm and Server development
 - 🌱 I’m currently learning nlp and cv
