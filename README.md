@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Franfee
 - 🌱 I’m currently learning cv(pix2pix, classify, super resolution)
 - 👀 https://orcid.org/0000-0003-3664-2323
-- 📫 "franfee@qq.com"
+- 📫 main:fananfei@stu.sicnu.edu.cn, backup:franfee@qq.com
 ## Education
 - Postgraduate at School of Computer Science, Sichuan Normal University 
 - Sept 2022 - Present, Chengdu China 
