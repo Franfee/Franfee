@@ -9,13 +9,13 @@
 - Supervised by A.P. Jun Yang
 ## Working
 #### 我有个大到不切实际的idea :
-- 仿生：人在回路参与多模态分区的神经网络架构
-- 想法来源 <<三位一体大脑在进化中的作用>>
-- 可能基础: CLIP, SDM
+- 名字 "仿生：人在回路参与多模态分区的神经网络架构"
+- 想法来源 "三位一体大脑在进化中的作用"
+- 可能基础: "CLIP, SDM"
 ### I had an impossible idea:
-- Simulate: Cerebrum Multimode Partitioning,Human In Loop
-- Inspired by <<The Triune Brain in Evolution: Role in Paleocerebral Functions>>
-- Technical basis: CLIP, SDM
+- named "Simulate: Cerebrum Multimode Partitioning with Human Interaction"
+- Inspired by "The Triune Brain in Evolution: Role in Paleocerebral Functions"
+- Technical basis: "CLIP, SDM"
 <!---
 Franfee/Franfee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
