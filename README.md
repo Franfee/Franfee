@@ -1,6 +1,6 @@
 ## About
 - 👋 Hi, I’m @Franfee
-- 🌱 I’m currently learning cv(pix2pix, classify, super resolution)
+- 🌱 I’m currently learning cv(pix2pix, text2img, super resolution) and nlp(LLM)
 - 👀 https://orcid.org/0000-0003-3664-2323
 - 📫 main:fananfei@stu.sicnu.edu.cn, backup:franfee@qq.com
 ## Education
