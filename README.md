@@ -7,7 +7,7 @@
 - Postgraduate at School of Computer Science, Sichuan Normal University 
 - Sept 2022 - Present, Chengdu China 
 - Supervised by A.P. Jun Yang
-## Working
+## Studying
 #### 我有个大到不切实际的idea :
 - 名字 "仿生：人在回路参与多模态分区的神经网络架构"
 - 想法来源 "三位一体大脑在进化中的作用"
