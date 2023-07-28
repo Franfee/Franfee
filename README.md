@@ -5,9 +5,10 @@
 - 📫 main:fananfei@stu.sicnu.edu.cn, backup:franfee@qq.com
 ## Education
 - Postgraduate at School of Computer Science, Sichuan Normal University 
-- Sept 2022 - Present, Chengdu China 
+- Sep 2022 - Jun 2025, Chengdu China 
 - Supervised by A.P. Jun Yang
-## Internship: CEC jiutian
+## Internship
+- AI Algorithm Engineer, R&D, CEC Jiutian
 - July 2023 - Jan 2024, Chengdu China 
 - Research on Consistency Algorithms for Large Language Models
 - Research on Industrial Landing Algorithms for Large Language Models
