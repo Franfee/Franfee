@@ -9,7 +9,7 @@
 - Supervised by A.P. Jun Yang
 ## Internship
 - AI Algorithm Engineer, R&D, CEC Jiutian
-- July 2023 - July 2024, Chengdu China 
+- July 2023 - Jan 2024, Chengdu China 
 - Research on Consistency Algorithms for Large Language Models
 - Research on Industrial Landing Algorithms for Large Language Models
 ## Studying
