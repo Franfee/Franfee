@@ -13,12 +13,12 @@
 - Research on Consistency Algorithms for Large Language Models
 - Research on Industrial Landing Algorithms for Large Language Models
 ## Studying
-#### 我有个大到不切实际的idea : SimulateCerebrum-Multimode-Partitioning 
+#### 我有个大到不切实际的idea : [SimulateCerebrum-Multimode-Partitioning](https://github.com/Franfee/SimulateCerebrum-Multimode-Partitioning) 
 - 名字 "仿生：人在回路参与多模态分区的神经网络架构"
 - 想法来源 "三位一体大脑在进化中的作用"
 - 可能基础: "Transformer, CLIP, BLIP, SDM, Toolformer, LangChain, Complex Logical Reasoning over KG"
 - 我没有足够的能力和资源完成，忙于其它事务，暂时也无法更新。如果有大佬感兴趣，请随意使用。
-### I had an impossible idea: SimulateCerebrum-Multimode-Partitioning 
+### I had an impossible idea: [SimulateCerebrum-Multimode-Partitioning](https://github.com/Franfee/SimulateCerebrum-Multimode-Partitioning)
 - Named "Simulate: Cerebrum Multimode Partitioning with Human Interaction"
 - Inspired by "The Triune Brain in Evolution: Role in Paleocerebral Functions"
 - Technical basis: "Transformer, CLIP, BLIP, SDM, Toolformer, LangChain, Complex Logical Reasoning over KG"
