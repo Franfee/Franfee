@@ -8,10 +8,14 @@
 - Sep 2022 - Jun 2025, Chengdu China 
 - Supervised by A.P. Jun Yang
 ## Internship
-- AI Algorithm Engineer, R&D, CEC Jiutian
+#### AI Algorithm Engineer, R&D, CEC Jiutian
 - July 2023 - Jan 2024, Chengdu China 
 - Research on Consistency Algorithms for Large Language Models
 - Research on Industrial Landing Algorithms for Large Language Models
+#### CTO & co-funder, [It is in the stage of commercial secrecy]
+- July 2024 - now, chongqing China
+- User Research
+- protype
 ## Studying
 #### 我有个大到不切实际的idea : [SimulateCerebrum-Multimode-Partitioning](https://github.com/Franfee/SimulateCerebrum-Multimode-Partitioning) 
 - 名字 "仿生：人在回路参与多模态分区的神经网络架构"
