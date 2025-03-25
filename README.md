@@ -1,8 +1,8 @@
 ## About
 - 👋 Hi, I’m @Franfee
-- 🌱 I’m currently learning cv(pix2pix, text2img, super resolution) and nlp(LLM)
+- 🌱 I’m currently learning cv(pix2pix, text2img, super resolution)、nlp(LLM、voice emotion)
 - 👀 https://orcid.org/0000-0003-3664-2323
-- 📫 main:fananfei@stu.sicnu.edu.cn, backup:franfee@qq.com
+- 📫 main:franfee@qq.com
 ## Education
 - Postgraduate at School of Computer Science, Sichuan Normal University 
 - Sep 2022 - Jun 2025, Chengdu China 
