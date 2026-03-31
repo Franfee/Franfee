@@ -1,6 +1,6 @@
 ## About
 - 👋 Hi, I’m @Franfee
-- 🌱 I’m currently learning cv(pix2pix, text2img, super resolution)、nlp(LLM、voice emotion)
+- 🌱 I’m currently learning cv(pix2pix, text2img, super resolution)、nlp(LLM、voice emotion)、Temporal Signal(Polysomnography Sleep Staging)
 - 👀 https://orcid.org/0000-0003-3664-2323
 - 📫 main:franfee@qq.com
 ## Education
@@ -15,7 +15,9 @@
 #### CTO & co-funder, [It is in the stage of commercial secrecy]
 - July 2024 - now, chongqing China
 - User Research
-- protype
+- Product Definition
+- R&D Management
+- Enterprise AI Service Infrastructure Design
 ## Studying
 #### 我有个大到不切实际的idea : [SimulateCerebrum-Multimode-Partitioning](https://github.com/Franfee/SimulateCerebrum-Multimode-Partitioning) 
 - 名字 "仿生：人在回路参与多模态分区的神经网络架构"
