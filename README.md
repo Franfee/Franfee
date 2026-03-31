@@ -6,7 +6,7 @@
 ## Education
 - Postgraduate at School of Computer Science, Sichuan Normal University 
 - Sep 2022 - Jun 2025, Chengdu China 
-- Supervised by A.P. Jun Yang
+- Supervised by Prof. Jun Yang
 ## Internship
 #### AI Algorithm Engineer, R&D, CEC Jiutian
 - July 2023 - Jan 2024, Chengdu China 
