@@ -12,12 +12,14 @@
 - July 2023 - Jan 2024, Chengdu China 
 - Research on Consistency Algorithms for Large Language Models
 - Research on Industrial Landing Algorithms for Large Language Models
-#### CTO & co-funder, [It is in the stage of commercial secrecy]
-- July 2024 - now, chongqing China
+#### CTO & co-funder, emotrans.love
+- July 2024 - July 2026, chongqing China
 - User Research
 - Product Definition
 - R&D Management
 - Enterprise AI Service Infrastructure Design
+#### funder, iainm.live
+- OPC
 ## Studying
 #### 我有个大到不切实际的idea : [SimulateCerebrum-Multimode-Partitioning](https://github.com/Franfee/SimulateCerebrum-Multimode-Partitioning) 
 - 名字 "仿生：人在回路参与多模态分区的神经网络架构"
